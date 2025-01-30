@@ -57,6 +57,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_heatmap_calendar: ^1.0.5
+--------------------------------------------
 
 https://github.com/user-attachments/assets/e8dbf542-cfe6-4ee9-a418-e6e0252aae87
 
