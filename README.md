@@ -60,4 +60,3 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_heatmap_calendar: ^1.0.5
---------------------------------------------
