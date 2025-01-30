@@ -34,7 +34,7 @@ Make sure you have **Flutter** installed on your system. You can follow the offi
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/flutter-heatmap.git
+    git clone https://github.com/subshegde/Flutter-HeatMap-Calendar.git
     cd flutter-heatmap
     ```
 
