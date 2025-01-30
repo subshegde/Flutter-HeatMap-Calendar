@@ -6,6 +6,9 @@ I’m excited to share a recent project where I implemented an **interactive hea
 
 In this project, I created a **heatmap calendar** that displays yearly data in an interactive way. The data is represented using a static map of `DateTime` and `int`, and the heatmap dynamically adjusts based on the selected year. 🗓️
 
+https://github.com/user-attachments/assets/e8dbf542-cfe6-4ee9-a418-e6e0252aae87
+
+
 ## 🔑 Key Features
 
 - **Heatmap Generation**: Displays heatmaps for different years based on sample data.
@@ -58,6 +61,3 @@ dependencies:
     sdk: flutter
   flutter_heatmap_calendar: ^1.0.5
 --------------------------------------------
-
-https://github.com/user-attachments/assets/e8dbf542-cfe6-4ee9-a418-e6e0252aae87
-
